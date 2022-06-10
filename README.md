@@ -1,17 +1,19 @@
 <img src="https://avatars.githubusercontent.com/u/156574?v=4" height="250" width="250" />
 
-👋 Hey, I am Joshua Strobl, an open source full-stack / software developer leading the <img src="https://avatars.githubusercontent.com/u/96975043?s=200&v=4" height="22" width="22" /> @BuddiesOfBudgie organization, and currently working at  @futurice..
+👋 Hey, I am Joshua Strobl, an open source full-stack / software developer!
 
-I have been contributing to open source since 2008 when I first installed Linux, having historically been a lead of  <img src="https://avatars.githubusercontent.com/u/43145361?s=200&v=4" height="22" width="22" /> @getsolus from 2015 to Jan. 2022. I founded and lead @BuddiesOfBudgie, an organization centered around building the Budgie Desktop environment / platform used around the world by tens of thousands of Linux users.
+I have been contributing to open source since 2008 when I first installed Linux, having historically been a lead of  <img src="https://avatars.githubusercontent.com/u/43145361?s=200&v=4" height="22" width="22" /> [Solus](https://getsol.us) from 2015 to Jan. 2022. I founded and lead <img src="https://avatars.githubusercontent.com/u/96975043?s=200&v=4" height="22" width="22" /> [Buddies Of Budgie](https://blog.buddiesofbudgie.org), an organization centered around building the Budgie Desktop environment / platform used around the world by tens of thousands of Linux users.
 
-I am currently working at <img src="https://avatars.githubusercontent.com/u/852157?s=200&v=4" height="22" width="22" /> @futurice as a software developer. I work everyday with Go, JavaScript, Node.JS, React, TypeScript and more!
+I am currently working at <img src="https://avatars.githubusercontent.com/u/852157?s=200&v=4" height="22" width="22" /> [Futurice](https://futurice.com) as a software developer. I work everyday with Go, JavaScript, Node.JS, React, TypeScript and more!
 
 🌱 I am currently learning Rust and the DAPP / DeFi (decentralized application / finance) ecosystem (Hardhat, Waffle, ethers.js).
 
 # Certifications
 
 **Scrum.org Professional Scrum Master I**
+
 22.02.2022 –
+
 [Scrum.org Profile](https://www.scrum.org/user/976555)
 
 # Volunteering
@@ -50,7 +52,7 @@ and jQuery.
   - Material UI
   - Next.JS
   - React, Redux, react-query
-Experienced with Contentful and Ghost as headless CMSes.
+- Experienced with Contentful and Ghost as headless CMSes.
 
 ## Design & Collaboration
 
