@@ -85,38 +85,24 @@ Check my requirements below and if you feel your company is a good match, reach 
   - Backend language: Golang or Node.js.
   - React
   - TypeScript
-- Culture & Quality of life
-  - Career growth
-  - Diversity program
 - Industry (one of the following)
-  - Banking, Corporate Finance, & Investing
+  - Banking, Corporate Finance, Digital Payments , Investing, eCommerce
   - Clean Tech
-  - Digital Communication
-  - Digital Payments
-  - Social Networking
-  - eCommerce
+  - Digital Communication and/or  Social Networking
 - Benefits
   - Flexible working hours
-  - Paid holidays
-  - Paid time off
-  - Work from home flexibility
-- Product or software-as-a-service company.
-- Needs to be in Golang or the full-stack space and minimum of 65k€/yr
+  - Paid holidays and time off
 
 # Nice to have
  
 - Tech Stack
   - Blockchain
-  - Cloud Computing
-  - Docker
-  - Full Stack Development
+  - Containerization: Docker, Kubernetes, podman, etc.
   - GraphQL
-  - Kubernetes
-  - Node.JS
-  - Rust
 - Culture & Quality of life
   - Conferences reimbursement
   - Job training
+  - Open source program
 - Benefits
   - ESPP (Employee Stock Purchase Plan)
   - Stock Options
