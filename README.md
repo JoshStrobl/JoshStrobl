@@ -78,17 +78,13 @@ Check my requirements below and if you feel your company is a good match, reach 
 
 - Only permanent roles at a minimum base salary of €65,000/yr.
 - Fully remote. I am open to occassional work trips (monthly, as an example) if the workplace is in another country.
-- **Interview requirements:** No timed "code challenges" / tests like on CodeSignal. They are the worst and do not reflect real world development. I would much rather have an open ended amount of time to provide my best work and demo it.
+- **Interview recommendation:** Rather than timed "code challenges", I work better with code reviews and working on real world, larger scale examples. These larger scale examples provide me the opportunity to better show my skills, think deeply about edge cases that the end user could be exposed to, and associate better with the problem at hand. If your interview process provides this opportunity, we are already on the right foot!
 - Working language must be English.
-- I can use Linux.
+- I am most efficient with Linux-based operating systems, so "bring your own OS" would be great.
 - Tech Stack
   - Backend language: Golang or Node.js.
   - React
   - TypeScript
-- Industry (one of the following)
-  - Banking, Corporate Finance, Digital Payments , Investing, eCommerce
-  - Clean Tech
-  - Digital Communication and/or  Social Networking
 - Benefits
   - Flexible working hours
   - Paid holidays and time off
@@ -99,6 +95,10 @@ Check my requirements below and if you feel your company is a good match, reach 
   - Blockchain
   - Containerization: Docker, Kubernetes, podman, etc.
   - GraphQL
+- Most Interesting Sectors
+  - Banking, Corporate Finance, Digital Payments, Investing, eCommerce
+  - Clean Tech
+  - Digital Communication and/or  Social Networking
 - Culture & Quality of life
   - Conferences reimbursement
   - Job training
@@ -106,6 +106,10 @@ Check my requirements below and if you feel your company is a good match, reach 
 - Benefits
   - ESPP (Employee Stock Purchase Plan)
   - Stock Options
+
+**Icing On The Cake:**
+
+- Oppurtunity to learn more Rust and use it.
 
 # No thanks
 
