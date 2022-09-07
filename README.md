@@ -2,7 +2,7 @@
 
 I have been contributing to open source since 2008 when I first installed Linux, having historically been a lead of  <img src="https://avatars.githubusercontent.com/u/43145361?s=200&v=4" height="22" width="22" /> [Solus](https://getsol.us) from 2015 to Jan. 2022. I founded and lead <img src="https://avatars.githubusercontent.com/u/96975043?s=200&v=4" height="22" width="22" /> [Buddies Of Budgie](https://blog.buddiesofbudgie.org), an organization centered around building the Budgie Desktop environment / platform used around the world by tens of thousands of Linux users.
 
-I am currently working at <img src="https://avatars.githubusercontent.com/u/852157?s=200&v=4" height="22" width="22" /> [Futurice](https://futurice.com) as a software developer. I work everyday with Go, JavaScript, Node.JS, React, TypeScript and more!
+I am currently working at <img src="https://avatars.githubusercontent.com/u/16963518?s=200&v=4" height="22" width="22" /> [Freska](https://freska.fi/en) as a software developer. I work everyday with Go, JavaScript, Node.JS, React, TypeScript and more!
 
 🌱 I am currently learning Rust and the DAPP / DeFi (decentralized application / finance) ecosystem (Hardhat, Waffle, ethers.js).
 
