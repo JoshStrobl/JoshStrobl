@@ -3,7 +3,7 @@
 I have been contributing to open source since 2008 when I first installed Linux. 
 
 - <img src="https://avatars.githubusercontent.com/u/43145361?s=200&v=4" height="22" width="22" /> [Solus](https://getsol.us) from 2015 to Jan. 2022 & April 2023-
-- Founded and lead <img src="https://avatars.githubusercontent.com/u/96975043?s=200&v=4" height="22" width="22" /> [Buddies Of Budgie](https://blog.buddiesofbudgie.org), an organization centered around building the Budgie Desktop environment / platform used around the world by tens of thousands of Linux users. Jan 2022-
+- <img src="https://avatars.githubusercontent.com/u/96975043?s=200&v=4" height="22" width="22" /> Founded and lead [Buddies Of Budgie](https://blog.buddiesofbudgie.org), an organization centered around building the Budgie Desktop environment / platform used around the world by tens of thousands of Linux users. Jan 2022-
 - <img src="https://fedoraproject.org/favicon.ico" height="26" /> Creator of [Fedora Budgie Spin](https://fedoraproject.org/spins/budgie/) and [Fedora Onyx](https://fedoraproject.org/wiki/Changes/Fedora_Onyx) (immutable variant coming in Fedora 39).
 
 I am working at <img src="https://avatars.githubusercontent.com/u/16963518?s=200&v=4" height="22" width="22" /> [Freska](https://freska.fi/en) as a Software Developer.
