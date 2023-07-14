@@ -8,7 +8,7 @@ I have been contributing to open source since 2008 when I first installed Linux.
 
 I am working at <img src="https://avatars.githubusercontent.com/u/16963518?s=200&v=4" height="22" width="22" /> [Freska](https://freska.fi/en) as a Software Developer.
 
-🌱 I am currently learning Rust and the DAPP / DeFi (decentralized application / finance) ecosystem (Hardhat, Waffle, ethers.js).
+🌱 I am currently learning Godot and Rust.
 
 # Certifications
 
