@@ -55,3 +55,4 @@ community and project management. Departed the project in January 2022, returnin
   - React, Redux, react-query
   - tRPC
 - Experienced with Contentful and Ghost as headless CMSes.
+- Experienced with Kubernetes and multiple cloud providers.
