@@ -18,6 +18,7 @@ I have been contributing to open source since 2008 when I first installed Linux.
 
 - Languages
   - C
+  - C++
   - CSS3 / LESS / SASS / SCSS
   - JavaScript (ES6+)
   - Golang
@@ -27,11 +28,11 @@ I have been contributing to open source since 2008 when I first installed Linux.
 - Frameworks
   - Apollo
   - Gatsby
-  - Hugo
   - Material UI
   - Next.JS
   - Nexus
   - React, Redux, react-query
+  - Qt
   - Tailwind CSS
   - tRPC
 - Experienced with Contentful and Ghost as headless CMSes.
